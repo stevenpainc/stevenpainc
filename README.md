@@ -1,7 +1,10 @@
-<img height="32" width="32" src="https://raw.githubusercontent.com/stevenpainc/stevenpainc/main/stevenpai.ico"/>
+## Hi, I'm Steven Pai
 
-• Just a developer.
+I'm a Software Developer and Networking Professional.
 
-• Silence makes big money.
+[![Steven Pai's github stats](https://github-readme-stats.vercel.app/api?username=stevenpainc&hide=contribs,prs,issues&theme=tokyonight)](https://github.com/stevenpainc/stevenpainc)
 
-• Enjoy programming and build awesome stuff.
+---
+
+- reach me : stevenpainc@gmail.com
+- currently working on **Aasia Tech Data Center Group**
