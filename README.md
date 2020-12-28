@@ -6,5 +6,5 @@ I'm a Software Developer and Networking Professional.
 
 ---
 
-- reach me : stevenpainc@gmail.com
+- reach me : me@foundermin.my.id
 - currently working on **Aasia Tech Data Center Group**
